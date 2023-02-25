@@ -1,0 +1,39 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#add-row-btn{
+	background-color: black;
+	color: white;
+	height: 30px;
+	margin-top: 30px;
+	width: 140px;
+
+}
+#tcontainer{
+	margin: 30px;
+	
+}
+header{
+	background: #000;
+	color: white;
+	height: 20px;
+	padding-left: 20px;
+	font-weight: 700px;
+	padding: 10px;
+
+}
+table {
+	border-collapse: collapse;
+	width: 95%;
+	margin-top: 20px;
+	
+  }
+  
+  /*  table header */
+  th {
+	background-color: #ffffff;
+	border: 1px solid #0f0d0d;
+	padding: 8px;
+	text-align: center;
+  }
